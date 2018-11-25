@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name" translatable="false">Project PIano</string>
+    <string name="action_settings" translatable="false">Settings</string>
+    <string name="activity_menu.xml" />
+    <string name="activity_menu.xml" />
+    <string name="activity_menu.xml" translatable="false" />
+    <string name="activity_login.xml" translatable="false">activity_login.xml</string>
+</resources>
