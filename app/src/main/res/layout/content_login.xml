@@ -16,6 +16,7 @@
         android:layout_marginLeft="8dp"
         android:layout_marginEnd="8dp"
         android:layout_marginRight="8dp"
+        android:onClick="@string/activity_menu.xml"
         android:text="Usuario"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
@@ -66,9 +67,9 @@
     <Button
         android:id="@+id/btn_submit"
         android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
+        android:layout_height="46dp"
         android:text="Acceder"
         tools:layout_editor_absoluteX="278dp"
-        tools:layout_editor_absoluteY="351dp" />
+        tools:layout_editor_absoluteY="353dp" />
 
 </android.support.constraint.ConstraintLayout>
