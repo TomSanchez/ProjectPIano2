@@ -1,8 +1,9 @@
-<resources>
+<resources xmlns:tools="http://schemas.android.com/tools">
     <string name="app_name" translatable="false">Project PIano</string>
     <string name="action_settings" translatable="false">Settings</string>
-    <string name="activity_menu.xml" />
-    <string name="activity_menu.xml" />
-    <string name="activity_menu.xml" translatable="false" />
-    <string name="activity_login.xml" translatable="false">activity_login.xml</string>
+    <string name="activity_menu.xml" tools:ignore="ExtraTranslation" />
+    <string name="activity_login.xml" translatable="false" tools:ignore="ExtraTranslation">activity_login.xml</string>
+    <string name="tocar_el_piano">tocar_el_piano</string>
+    <string name="configurar_la_app">Configurar la app</string>
+    <string name="salir">Salir</string>
 </resources>
